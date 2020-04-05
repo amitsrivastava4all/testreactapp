@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.fb78c5ae.chunk.js",
-    "main.js.map": "/static/js/main.fb78c5ae.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.071dcc11.js",
-    "runtime-main.js.map": "/static/js/runtime-main.071dcc11.js.map",
-    "static/js/2.11e9c32a.chunk.js": "/static/js/2.11e9c32a.chunk.js",
-    "static/js/2.11e9c32a.chunk.js.map": "/static/js/2.11e9c32a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6b03a56690165a33d313293a094ea988.js": "/precache-manifest.6b03a56690165a33d313293a094ea988.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.11e9c32a.chunk.js.LICENSE.txt": "/static/js/2.11e9c32a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "https://amitsrivastava4all.github.io/testreactapp/static/css/main.5f361e03.chunk.css",
+    "main.js": "https://amitsrivastava4all.github.io/testreactapp/static/js/main.826433ed.chunk.js",
+    "main.js.map": "https://amitsrivastava4all.github.io/testreactapp/static/js/main.826433ed.chunk.js.map",
+    "runtime-main.js": "https://amitsrivastava4all.github.io/testreactapp/static/js/runtime-main.b7e4a6fb.js",
+    "runtime-main.js.map": "https://amitsrivastava4all.github.io/testreactapp/static/js/runtime-main.b7e4a6fb.js.map",
+    "static/js/2.11e9c32a.chunk.js": "https://amitsrivastava4all.github.io/testreactapp/static/js/2.11e9c32a.chunk.js",
+    "static/js/2.11e9c32a.chunk.js.map": "https://amitsrivastava4all.github.io/testreactapp/static/js/2.11e9c32a.chunk.js.map",
+    "index.html": "https://amitsrivastava4all.github.io/testreactapp/index.html",
+    "precache-manifest.54dd2ea8158d472cf34e13c45496f9d0.js": "https://amitsrivastava4all.github.io/testreactapp/precache-manifest.54dd2ea8158d472cf34e13c45496f9d0.js",
+    "service-worker.js": "https://amitsrivastava4all.github.io/testreactapp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "https://amitsrivastava4all.github.io/testreactapp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.11e9c32a.chunk.js.LICENSE.txt": "https://amitsrivastava4all.github.io/testreactapp/static/js/2.11e9c32a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "https://amitsrivastava4all.github.io/testreactapp/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.071dcc11.js",
+    "static/js/runtime-main.b7e4a6fb.js",
     "static/js/2.11e9c32a.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.fb78c5ae.chunk.js"
+    "static/js/main.826433ed.chunk.js"
   ]
 }
